@@ -1,0 +1,2 @@
+# fuel_SC_depoyment_testnet
+fuel_SC_depoyment_testnet
